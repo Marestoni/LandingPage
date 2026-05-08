@@ -1,12 +1,9 @@
-import React from 'react';
+
 import { motion } from 'framer-motion';
 import {
   CheckCircle,
   ArrowRight,
   Star,
-  Smartphone,
-  Rocket,
-  Shield,
   BookOpen,
   TrendingUp,
   Users,
